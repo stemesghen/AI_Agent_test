@@ -1,0 +1,13 @@
+{
+  "doc_id": "48bc50e8432b78650997c12544e58970d3798e19",
+  "url": "https://gcaptain.com/trump-adds-to-military-buildup-in-caribbean-with-ford-carrier-deployment/",
+  "title": "Trump Adds to Military Buildup in Caribbean With Ford Carrier Deployment",
+  "published_at": "2025-10-24T21:41:14+00:00",
+  "is_incident": true,
+  "incident_types": [
+    "security_threat"
+  ],
+  "near_miss": false,
+  "confidence": 0.85,
+  "rationale": "US strikes and carrier deployment constitute maritime securi"
+}

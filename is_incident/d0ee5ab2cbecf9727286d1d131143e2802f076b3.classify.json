@@ -1,0 +1,14 @@
+{
+  "doc_id": "d0ee5ab2cbecf9727286d1d131143e2802f076b3",
+  "url": "https://www.marineinsight.com/shipping-news/u-s-deploys-worlds-largest-aircraft-carrier-to-caribbean-in-major-military-buildup/?utm_source=rss&utm_medium=rss&utm_campaign=u-s-deploys-worlds-largest-aircraft-carrier-to-caribbean-in-major-military-buildup",
+  "title": "U.S. Deploys World’s Largest Aircraft Carrier To Caribbean In Major Military Buildup",
+  "published_at": "2025-10-25T12:15:14+00:00",
+  "is_incident": true,
+  "incident_types": [
+    "strike",
+    "security_threat"
+  ],
+  "near_miss": false,
+  "confidence": 0.85,
+  "rationale": "US strikes on vessels and military deployment in Caribbean."
+}

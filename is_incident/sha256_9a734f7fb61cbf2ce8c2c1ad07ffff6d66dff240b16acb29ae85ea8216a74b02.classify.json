@@ -1,0 +1,13 @@
+{
+  "doc_id": "sha256:9a734f7fb61cbf2ce8c2c1ad07ffff6d66dff240b16acb29ae85ea8216a74b02",
+  "url": "https://www.marineinsight.com/shipping-news/watch-venezuelan-navy-landing-ship-partially-sinks-during-military-drills/?utm_source=rss&utm_medium=rss&utm_campaign=watch-venezuelan-navy-landing-ship-partially-sinks-during-military-drills",
+  "title": "Watch: Venezuelan Navy Landing Ship Partially Sinks During Military Drills",
+  "published_at": "2025-10-17T20:51:49.870628+00:00",
+  "is_incident": true,
+  "incident_types": [
+    "engine_failure"
+  ],
+  "near_miss": false,
+  "confidence": 0.4,
+  "rationale": "Military landing ship partially sank during exercises; cause"
+}

@@ -1,0 +1,353 @@
+alias,canonical_name,iso2,source
+ad,bangladesh,BD,corpus-fuzzy
+af,afghanistan,AF,corpus-fuzzy
+afghanistan,afghanistan,AF,dbpedia
+ag,madagascar,MG,corpus-fuzzy
+ai,azerbaijan,AZ,corpus-fuzzy
+al,albania,AL,corpus-fuzzy
+albania,albania,AL,dbpedia
+algeria,algeria,DZ,dbpedia
+andorra,andorra,AD,dbpedia
+angola,angola,AO,dbpedia
+antigua and barbuda,antigua and barbuda,AG,dbpedia
+aq,iraq,IQ,corpus-fuzzy
+ar,antarctica,AQ,corpus-fuzzy
+argentina,argentina,AR,dbpedia
+armenia,armenia,AM,dbpedia
+aruba,aruba,AW,dbpedia
+as,bahamas,BS,corpus-fuzzy
+at,croatia,HR,corpus-fuzzy
+au,australia,AU,corpus-fuzzy
+australia,australia,AU,dbpedia
+austria,austria,AT,dbpedia
+aw,malawi,MW,corpus-fuzzy
+azerbaijan,azerbaijan,AZ,dbpedia
+bahrain,bahrain,BH,dbpedia
+bangladesh,bangladesh,BD,dbpedia
+barbados,barbados,BB,dbpedia
+be,belarus,BY,corpus-fuzzy
+belarus,belarus,BY,dbpedia
+belgium,belgium,BE,dbpedia
+belize,belize,BZ,dbpedia
+benin,benin,BJ,dbpedia
+bhutan,bhutan,BT,dbpedia
+bo,botswana,BW,corpus-fuzzy
+bosnia and herzegovina,bosnia and herzegovina,BA,dbpedia
+botswana,botswana,BW,dbpedia
+br,brazil,BR,corpus-fuzzy
+brazil,brazil,BR,dbpedia
+bulgaria,bulgaria,BG,dbpedia
+burkina faso,burkina faso,BF,dbpedia
+burundi,burundi,BI,dbpedia
+ca,american samoa,AS,corpus-fuzzy
+cambodia,cambodia,KH,dbpedia
+cameroon,cameroon,CM,dbpedia
+canada,canada,CA,dbpedia
+cape verde,cape verde,CV,dbpedia
+central african republic,central african republic,CF,dbpedia
+ch,chad,TD,corpus-fuzzy
+chad,chad,TD,dbpedia
+chile,chile,CL,dbpedia
+china,china,CN,dbpedia
+co,colombia,CO,corpus-fuzzy
+colombia,colombia,CO,dbpedia
+comoros,comoros,KM,dbpedia
+cook islands,cook islands,CK,dbpedia
+costa rica,costa rica,CR,dbpedia
+cote d'ivoire,côte d'ivoire,CI,manual
+cote d’ivoire,côte d'ivoire,CI,manual
+croatia,croatia,HR,dbpedia
+cu,cuba,CU,corpus-fuzzy
+cuba,cuba,CU,dbpedia
+cyprus,cyprus,CY,dbpedia
+cz,czech republic,CZ,corpus-fuzzy
+czech republic,czech republic,CZ,dbpedia
+de,bangladesh,BD,corpus-fuzzy
+democratic peoples republic of korea,"korea, democratic people's republic of",KP,manual
+democratic people’s republic of korea,"korea, democratic people's republic of",KP,manual
+denmark,denmark,DK,dbpedia
+djibouti,djibouti,DJ,dbpedia
+dominica,dominica,DM,dbpedia
+dominican republic,dominican republic,DO,dbpedia
+dprk,"korea, democratic people's republic of",KP,manual
+ecuador,ecuador,EC,dbpedia
+eg,egypt,EG,corpus-fuzzy
+egypt,egypt,EG,dbpedia
+el salvador,el salvador,SV,dbpedia
+emirates,united arab emirates,AE,manual
+equatorial guinea,equatorial guinea,GQ,dbpedia
+eritrea,eritrea,ER,dbpedia
+es,bangladesh,BD,corpus-fuzzy
+estonia,estonia,EE,dbpedia
+eswatini,eswatini,SZ,dbpedia
+ethiopia,ethiopia,ET,dbpedia
+fiji,fiji,FJ,dbpedia
+finland,finland,FI,dbpedia
+fr,france,FR,corpus-fuzzy
+france,france,FR,dbpedia
+gabon,gabon,GA,dbpedia
+gaza strip,"palestine, state of",PS,manual
+german,germany,DE,corpus-fuzzy
+germany,germany,DE,dbpedia
+ghana,ghana,GH,dbpedia
+gi,belgium,BE,corpus-fuzzy
+gr,greece,GR,corpus-fuzzy
+great britain,united kingdom,GB,manual
+greece,greece,GR,dbpedia
+grenada,grenada,GD,dbpedia
+gu,anguilla,AI,corpus-fuzzy
+guatemala,guatemala,GT,dbpedia
+guinea,guinea,GN,dbpedia
+guinea-bissau,guinea-bissau,GW,dbpedia
+guyana,guyana,GY,dbpedia
+haiti,haiti,HT,dbpedia
+holland,netherlands,NL,manual
+honduras,honduras,HN,dbpedia
+hr,bahrain,BH,corpus-fuzzy
+hungary,hungary,HU,dbpedia
+iceland,iceland,IS,dbpedia
+ie,liechtenstein,LI,corpus-fuzzy
+il,anguilla,AI,corpus-fuzzy
+india,india,IN,dbpedia
+indonesia,indonesia,ID,dbpedia
+ir,côte d'ivoire,CI,corpus-fuzzy
+iraq,iraq,IQ,dbpedia
+israel,israel,IL,dbpedia
+it,eritrea,ER,corpus-fuzzy
+italy,italy,IT,dbpedia
+ivory coast,côte d'ivoire,CI,manual
+jamaica,jamaica,JM,dbpedia
+japan,japan,JP,dbpedia
+jo,jordan,JO,corpus-fuzzy
+jordan,jordan,JO,dbpedia
+kazakhstan,kazakhstan,KZ,dbpedia
+ke,kenya,KE,corpus-fuzzy
+kenya,kenya,KE,dbpedia
+ki,burkina faso,BF,corpus-fuzzy
+kiribati,kiribati,KI,dbpedia
+kuwait,kuwait,KW,dbpedia
+kyrgyzstan,kyrgyzstan,KG,dbpedia
+latvia,latvia,LV,dbpedia
+lebanon,lebanon,LB,dbpedia
+lesotho,lesotho,LS,dbpedia
+liberia,liberia,LR,dbpedia
+libya,libya,LY,dbpedia
+liechtenstein,liechtenstein,LI,dbpedia
+lithuania,lithuania,LT,dbpedia
+luxembourg,luxembourg,LU,dbpedia
+ly,french polynesia,PF,corpus-fuzzy
+madagascar,madagascar,MG,dbpedia
+malawi,malawi,MW,dbpedia
+malaysia,malaysia,MY,dbpedia
+maldives,maldives,MV,dbpedia
+mali,mali,ML,dbpedia
+malta,malta,MT,dbpedia
+marshall islands,marshall islands,MH,dbpedia
+mauritania,mauritania,MR,dbpedia
+mauritius,mauritius,MU,dbpedia
+mexico,mexico,MX,dbpedia
+monaco,monaco,MC,dbpedia
+mongolia,mongolia,MN,dbpedia
+montenegro,montenegro,ME,dbpedia
+morocco,morocco,MA,dbpedia
+mozambique,mozambique,MZ,dbpedia
+myanmar,myanmar,MM,dbpedia
+namibia,namibia,NAN,dbpedia
+nauru,nauru,NR,dbpedia
+nepal,nepal,NP,dbpedia
+netherlands,netherlands,NL,dbpedia
+new zealand,new zealand,NZ,dbpedia
+nicaragua,nicaragua,NI,dbpedia
+niger,niger,NE,dbpedia
+nigeria,nigeria,NG,dbpedia
+niue,niue,NU,dbpedia
+nl,finland,FI,corpus-fuzzy
+no,lebanon,LB,corpus-fuzzy
+north korea,"korea, democratic people's republic of",KP,manual
+norway,norway,NO,dbpedia
+occupied palestinian territory,"palestine, state of",PS,manual
+oman,oman,OM,dbpedia
+pakistan,pakistan,PK,dbpedia
+palau,palau,PW,dbpedia
+palestinian territories,"palestine, state of",PS,manual
+palestinian territory,"palestine, state of",PS,manual
+panama,panama,PA,dbpedia
+papua new guinea,papua new guinea,PG,dbpedia
+paraguay,paraguay,PY,dbpedia
+peru,peru,PE,dbpedia
+ph,philippines,PH,corpus-fuzzy
+philippines,philippines,PH,dbpedia
+poland,poland,PL,dbpedia
+portugal,portugal,PT,dbpedia
+qa,qatar,QA,corpus-fuzzy
+qatar,qatar,QA,dbpedia
+republic of korea,"korea, republic of",KR,manual
+rok,"korea, republic of",KR,manual
+romania,romania,RO,dbpedia
+ru,aruba,AW,corpus-fuzzy
+russian,russian federation,RU,corpus-fuzzy
+rwanda,rwanda,RW,dbpedia
+saint kitts and nevis,saint kitts and nevis,KN,dbpedia
+saint lucia,saint lucia,LC,dbpedia
+saint vincent and the grenadines,saint vincent and the grenadines,VC,dbpedia
+samoa,samoa,WS,dbpedia
+san marino,san marino,SM,dbpedia
+saudi arabia,saudi arabia,SA,dbpedia
+sc,madagascar,MG,corpus-fuzzy
+se,guernsey,GG,corpus-fuzzy
+senegal,senegal,SN,dbpedia
+serbia,serbia,RS,dbpedia
+seychelles,seychelles,SC,dbpedia
+sierra leone,sierra leone,SL,dbpedia
+singapore,singapore,SG,dbpedia
+slovakia,slovakia,SK,dbpedia
+slovenia,slovenia,SI,dbpedia
+solomon islands,solomon islands,SB,dbpedia
+somalia,somalia,SO,dbpedia
+south africa,south africa,ZA,dbpedia
+south korea,"korea, republic of",KR,manual
+south sudan,south sudan,SS,dbpedia
+spain,spain,ES,dbpedia
+sri lanka,sri lanka,LK,dbpedia
+sudan,sudan,SD,dbpedia
+suriname,suriname,SR,dbpedia
+sweden,sweden,SE,dbpedia
+switzerland,switzerland,CH,dbpedia
+tajikistan,tajikistan,TJ,dbpedia
+thailand,thailand,TH,dbpedia
+the emirates,united arab emirates,AE,manual
+the netherlands,netherlands,NL,manual
+timor-leste,timor-leste,TL,dbpedia
+togo,togo,TG,dbpedia
+tonga,tonga,TO,dbpedia
+trinidad and tobago,trinidad and tobago,TT,dbpedia
+tunisia,tunisia,TN,dbpedia
+turkey,turkey,TR,dbpedia
+turkmenistan,turkmenistan,TM,dbpedia
+tuvalu,tuvalu,TV,dbpedia
+u.a.e.,united arab emirates,AE,manual
+u.k.,united kingdom,GB,manual
+u.s.a.,united states,US,manual
+uae,united arab emirates,AE,manual
+uganda,uganda,UG,dbpedia
+uk,united kingdom,GB,manual
+ukraine,ukraine,UA,dbpedia
+united arab emirates,united arab emirates,AE,dbpedia
+united kingdom,united kingdom,GB,dbpedia
+united states,united states,US,dbpedia
+united states minor outlying islands,united states minor outlying islands,UM,dbpedia
+united states of america,united states,US,manual
+uruguay,uruguay,UY,dbpedia
+us,australia,AU,corpus-fuzzy
+usa,united states,US,manual
+uzbekistan,uzbekistan,UZ,dbpedia
+vanuatu,vanuatu,VU,dbpedia
+ve,bouvet island,BV,corpus-fuzzy
+venezuelan,"venezuela, bolivarian republic of",VE,corpus-fuzzy
+west bank,"palestine, state of",PS,manual
+ye,yemen,YE,corpus-fuzzy
+yemen,yemen,YE,dbpedia
+za,kazakhstan,KZ,corpus-fuzzy
+zambia,zambia,ZM,dbpedia
+zimbabwe,zimbabwe,ZW,dbpedia
+chinese,chinese,CN,manual-demonym
+greek,greek,GR,manual-demonym
+turkish,turkish,TR,manual-demonym
+spanish,spanish,ES,manual-demonym
+italian,italian,IT,manual-demonym
+french,french,FR,manual-demonym
+british,british,GB,manual-demonym
+japanese,japanese,JP,manual-demonym
+korean,korean,KR,manual-demonym
+north korean,north korean,KP,manual-demonym
+south korean,south korean,KR,manual-demonym
+iranian,iranian,IR,manual-demonym
+iraqi,iraqi,IQ,manual-demonym
+syrian,syrian,SY,manual-demonym
+israeli,israeli,IL,manual-demonym
+saudi,saudi,SA,manual-demonym
+saudi arabian,saudi arabian,SA,manual-demonym
+emirati,emirati,AE,manual-demonym
+qatari,qatari,QA,manual-demonym
+kuwaiti,kuwaiti,KW,manual-demonym
+american,american,US,manual-demonym
+u.s.,u.s.,US,manual-demonym
+us,us,US,manual-demonym
+canadian,canadian,CA,manual-demonym
+mexican,mexican,MX,manual-demonym
+colombian,colombian,CO,manual-demonym
+brazilian,brazilian,BR,manual-demonym
+argentine,argentine,AR,manual-demonym
+argentinian,argentinian,AR,manual-demonym
+chilean,chilean,CL,manual-demonym
+peruvian,peruvian,PE,manual-demonym
+dutch,dutch,NL,manual-demonym
+polish,polish,PL,manual-demonym
+swedish,swedish,SE,manual-demonym
+norwegian,norwegian,NO,manual-demonym
+danish,danish,DK,manual-demonym
+finnish,finnish,FI,manual-demonym
+austrian,austrian,AT,manual-demonym
+hungarian,hungarian,HU,manual-demonym
+romanian,romanian,RO,manual-demonym
+bulgarian,bulgarian,BG,manual-demonym
+portuguese,portuguese,PT,manual-demonym
+czech,czech,CZ,manual-demonym
+slovak,slovak,SK,manual-demonym
+slovene,slovene,SI,manual-demonym
+slovenian,slovenian,SI,manual-demonym
+croatian,croatian,HR,manual-demonym
+serbian,serbian,RS,manual-demonym
+bosnian,bosnian,BA,manual-demonym
+georgian,georgian,GE,manual-demonym
+armenian,armenian,AM,manual-demonym
+azerbaijani,azerbaijani,AZ,manual-demonym
+egyptian,egyptian,EG,manual-demonym
+libyan,libyan,LY,manual-demonym
+tunisian,tunisian,TN,manual-demonym
+algerian,algerian,DZ,manual-demonym
+moroccan,moroccan,MA,manual-demonym
+ethiopian,ethiopian,ET,manual-demonym
+eritrean,eritrean,ER,manual-demonym
+kenyan,kenyan,KE,manual-demonym
+tanzanian,tanzanian,TZ,manual-demonym
+somali,somali,SO,manual-demonym
+south african,south african,ZA,manual-demonym
+ghanaian,ghanaian,GH,manual-demonym
+nigerian,nigerian,NG,manual-demonym
+angolan,angolan,AO,manual-demonym
+ivorian,ivorian,CI,manual-demonym
+côte d’ivoire,côte d’ivoire,CI,manual-demonym
+pakistani,pakistani,PK,manual-demonym
+afghan,afghan,AF,manual-demonym
+indian,indian,IN,manual-demonym
+bangladeshi,bangladeshi,BD,manual-demonym
+sri lankan,sri lankan,LK,manual-demonym
+nepali,nepali,NP,manual-demonym
+kazakh,kazakh,KZ,manual-demonym
+uzbek,uzbek,UZ,manual-demonym
+tajik,tajik,TJ,manual-demonym
+kyrgyz,kyrgyz,KG,manual-demonym
+vietnamese,vietnamese,VN,manual-demonym
+thai,thai,TH,manual-demonym
+laotian,laotian,LA,manual-demonym
+burmese,burmese,MM,manual-demonym
+cambodian,cambodian,KH,manual-demonym
+filipino,filipino,PH,manual-demonym
+philippine,philippine,PH,manual-demonym
+malaysian,malaysian,MY,manual-demonym
+indonesian,indonesian,ID,manual-demonym
+taiwanese,taiwanese,TW,manual-demonym
+hong kong,hong kong,HK,manual-demonym
+macanese,macanese,MO,manual-demonym
+australian,australian,AU,manual-demonym
+new zealander,new zealander,NZ,manual-demonym
+kiwi,kiwi,NZ,manual-demonym
+yemeni,yemeni,YE,manual-demonym
+omani,omani,OM,manual-demonym
+bahraini,bahraini,BH,manual-demonym
+lebanese,lebanese,LB,manual-demonym
+jordanian,jordanian,JO,manual-demonym
+palestinian,palestinian,PS,manual-demonym
+kosovar,kosovar,XK,manual-demonym
+kosovan,kosovan,XK,manual-demonym

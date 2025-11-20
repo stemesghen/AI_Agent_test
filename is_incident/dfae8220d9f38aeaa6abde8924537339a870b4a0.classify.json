@@ -1,0 +1,14 @@
+{
+  "doc_id": "dfae8220d9f38aeaa6abde8924537339a870b4a0",
+  "url": "https://maritime-executive.com/port-news",
+  "title": "Ports",
+  "published_at": "2025-10-26T16:19:26.738667+00:00",
+  "is_incident": true,
+  "incident_types": [
+    "strike",
+    "security_threat"
+  ],
+  "near_miss": false,
+  "confidence": 0.85,
+  "rationale": "Mentions strike, attacks on ports, and a capsized transfer v"
+}

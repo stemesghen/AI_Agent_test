@@ -1,0 +1,13 @@
+{
+  "doc_id": "111302fe966c8ccfaebeefed65b15d6541e60bbf",
+  "url": "https://gcaptain.com/chinas-pacific-gas-denies-owning-lng-carrier-skirting-russian-sanctions/",
+  "title": "China’s Pacific Gas Denies Role in Russian LNG Transfer",
+  "published_at": "2025-10-24T15:45:20+00:00",
+  "is_incident": true,
+  "incident_types": [
+    "security_threat"
+  ],
+  "near_miss": false,
+  "confidence": 0.9,
+  "rationale": "Apparent illicit ship-to-ship transfer of sanctioned Russian"
+}

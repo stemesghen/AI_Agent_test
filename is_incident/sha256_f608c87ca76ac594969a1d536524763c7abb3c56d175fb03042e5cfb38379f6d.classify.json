@@ -1,0 +1,13 @@
+{
+  "doc_id": "sha256:f608c87ca76ac594969a1d536524763c7abb3c56d175fb03042e5cfb38379f6d",
+  "url": "https://www.marineinsight.com/shipping-news/fire-erupts-on-vessel-under-repair-at-goa-shipyard-2-dead-4-critically-injured/?utm_source=rss&utm_medium=rss&utm_campaign=fire-erupts-on-vessel-under-repair-at-goa-shipyard-2-dead-4-critically-injured",
+  "title": "Fire Erupts On Vessel Under Repair At Goa Shipyard, 2 Dead & 4 Critically Injured",
+  "published_at": "2025-10-23T02:51:26.316173+00:00",
+  "is_incident": true,
+  "incident_types": [
+    "fire"
+  ],
+  "near_miss": false,
+  "confidence": 0.95,
+  "rationale": "Confirmed onboard fire during welding; fatalities and injuri"
+}

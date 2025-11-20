@@ -1,0 +1,14 @@
+{
+  "doc_id": "f793d28811e9599068256c55437e39c9e03f1d08",
+  "url": "https://www.marineinsight.com/shipping-news/cruise-ship-rescues-63-people-from-overcrowded-sailboat-in-the-ionian-sea/?utm_source=rss&utm_medium=rss&utm_campaign=cruise-ship-rescues-63-people-from-overcrowded-sailboat-in-the-ionian-sea",
+  "title": "Cruise Ship Rescues 63 People From Overcrowded Sailboat In The Ionian Sea",
+  "published_at": "2025-10-25T11:42:43+00:00",
+  "is_incident": true,
+  "incident_types": [
+    "security_threat",
+    "port_closure"
+  ],
+  "near_miss": true,
+  "confidence": 0.8,
+  "rationale": "Migrant rescue averted disaster; itinerary altered, port cal"
+}
