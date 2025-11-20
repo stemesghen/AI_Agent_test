@@ -1,0 +1,42 @@
+source_id,name,url,kind,region,reliability,lang,item_selector,link_selector,max_pages,notes
+gcaptain_rss,gCaptain,https://gcaptain.com/feed/,rss,global,0.9,en,,,,"Fast incident news; frequent vessel and port mentions (official RSS)"
+splash247_rss,Splash247,https://splash247.com/feed/,rss,global,0.85,en,,,,"Commercial shipping incidents; frequent vessel/port mentions"
+marinelink_rss,MarineLink,https://www.marinelink.com/news/rss,rss,global,0.85,en,,,,"Technical shipping and incident news; includes IMO numbers"
+hellenicshipping_rss,Hellenic Shipping News,https://www.hellenicshippingnews.com/feed/,rss,global,0.85,en,,,,"General maritime coverage; good supplementary signal"
+marineinsight_rss,Marine Insight,https://www.marineinsight.com/feed/,rss,global,0.8,en,,,,"Marine safety and operational incidents; some IMO mentions"
+seatrade_rss,Seatrade Maritime,https://www.seatrade-maritime.com/rss.xml,rss,global,0.85,en,,,,"Covers global commercial and incident reports"
+ins_mar_news,Insurance Marine News,https://insurancemarinenews.com/feed/,rss,global,0.85,en,,,,"Insurance-focused incidents; frequently includes IMO and vessel details"
+marinelog_rss,Marine Log,https://www.marinelog.com/feed/,rss,global,0.8,en,,,,"Operations, casualties, port disruptions; clean RSS"
+fleetmon_rss,FleetMon Maritime News,https://www.fleetmon.com/maritime-news/rss/,rss,global,0.8,en,,,,"Frequent incident posts; IMO often present in body"
+
+maritime_executive,The Maritime Executive,https://maritime-executive.com/,html,global,0.85,en,article,a,1,"Scrape latest stories; RSS endpoint unreliable/malformed"
+
+
+uscg_msib_index,USCG MSIB (NAVCEN Index),https://www.navcen.uscg.gov/subscribe-email-rss-feeds,html,usa,0.9,en,div.card,div.card-body a,1,"Index of sector/district RSS; use to discover more regional feeds"
+uscg_msib_d1,USCG MSIB District 1,https://navcen.uscg.gov/rss/LocalMSIBDistrict1,rss,usa,0.9,en,,,,"US East Coast – Boston / New York region (RSS can be finicky; fetch-then-parse)"
+uscg_msib_d5,USCG MSIB District 5,https://navcen.uscg.gov/rss/LocalMSIBDistrict5,rss,usa,0.9,en,,,,"US Mid-Atlantic / Chesapeake Bay region (RSS can be finicky; fetch-then-parse)"
+
+recaap,ReCAAP Alerts/Reports,https://www.recaap.org/alerts,html,apac,0.9,en,div.news_item,div.news_item a,1,"Official piracy & armed robbery reports; crawl alerts + monthly PDFs"
+imo_gisis,IMO GISIS (MCI),https://gisis.imo.org/Public/MCIR/Default.aspx,portal,global,0.95,en,,,,"IMO casualties/incidents for verification and history (vessel+IMO)"
+emsa_emcip,EMSA Annual Overview,https://www.emsa.europa.eu/publications/item/5562-annual-overview-of-marine-casualties-and-incidents-2025.html,html,eu,0.8,en,article,a,1,"EU annual casualty/incident summary; authoritative but not real-time"
+marinetraffic_news,MarineTraffic News,https://www.marinetraffic.com/en/maritime-news,html,global,0.9,en,article,a,1,"No RSS; use page scrape or MarineTraffic API for AIS/event tags if licensed"
+
+
+safety4sea_html,SAFETY4SEA (Accident Reports),https://safety4sea.com/tag/accident-reports/,html,global,0.8,en,article,.entry-title a,2,"Accident/casualty posts; RSS unreliable"
+fleetmon_html,FleetMon Maritime News,https://www.fleetmon.com/maritime-news/,html,global,0.8,en,article,h2 a,2,"HTML fallback if RSS fails (SSL/CA)"
+ukmto_html,UKMTO Recent Incidents,https://www.ukmto.org/recent-incidents,html,apac,0.9,en,div.views-row,.views-field-title a,1,"Official piracy/armed robbery incidents (Indian Ocean/APAC)"
+maritimebulletin_html,Maritime Bulletin (Accidents),https://www.maritimebulletin.net/category/accidents/,html,global,0.8,en,article,.entry-title a,3,"Accident reports; category pages"
+nato_sc_portal,NATO Shipping Centre Advisories,https://shipping.nato.int/Pages/Advisories.aspx,portal,emea,0.85,en,,,,"SharePoint/JS heavy; treat as portal unless you add a JS renderer"
+uscg_msib_index,USCG MSIB (NAVCEN Index),https://www.navcen.uscg.gov/subscribe-email-rss-feeds,html,usa,0.9,en,body,a[href*="/rss/LocalMSIB"],1,"Discover sector/district RSS endpoints"
+recaap,ReCAAP Alerts/Reports,https://www.recaap.org/alerts,html,apac,0.9,en,div.card,div.card a,1,"Official alerts + monthly PDFs"
+marinetraffic_news,MarineTraffic News,https://www.marinetraffic.com/en/maritime-news,portal,global,0.9,en,,,,"JS-heavy; use API if licensed"
+emsa_emcip,EMSA Annual Overview,https://www.emsa.europa.eu/publications/item/5562-annual-overview-of-marine-casualties-and-incidents-2025.html,portal,eu,0.8,en,,,,"Single publication page; not a feed/list"
+
+
+#other
+
+tradewinds_portal,TradeWinds,https://www.tradewindsnews.com/,portal,global,0.9,en,,,,"Fully enabled portal ingestion; TradeWinds uses JS + paywall but pipeline should still attempt access and extract visible headlines/snippets"
+
+tradewinds_html,TradeWinds,https://www.tradewindsnews.com/,html,global,0.75,en,article,article a,1,"HTML scrape of homepage: extract latest headlines/links; many articles require login but titles still useful for incident discovery"
+
+insbus_marine_html,Insurance Business (Marine),https://www.insurancebusinessmag.com/ca/news/marine/,html,global,0.8,en,article.article-list__item,article.article-list__item a,2,"Scrape marine incident and insurance loss articles; clean HTML structure; reliable for port/vessel extraction"

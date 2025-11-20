@@ -1,0 +1,11 @@
+doc_id,title,published_at,is_incident,vessel,vessel_conf,vessel_source,imo,port,date,facility_id,facility_name,locode,lat,lon,match_conf
+sha256:07f34821bff83f3df16efacc3bd9da633c2639f377f57b5374cf3f7f1ff0dfb4,U.S. Navy Warship Holding Survivors From Strike on Caribbean Vessel,2025-10-17,true,Caribbean Vessel,0.8,proper_run,,,2025-10-17,,,,,,
+sha256:15575ea8edc70d1114da5e3f06543e93dcc7b71215f1979d6479864e6a18abca,US Strikes Suspected Drug Vessel in the Pacific,2025-10-23,true,in the Eastern Pacific Ocean,0.83,after_noun,,,2025-10-23,,,,,,
+sha256:15ffafbc76818c2d072a8a4514502c7d257b8ed49d26a14620815fc3e505d24b,Filipino Seafarers Denied Entry At US Ports; PH Embassy Coordinates With Officials,2025-10-23,true,Filipino Seafarers,0.8,proper_run,,,2025-10-23,,,,,,
+sha256:5b393cd1e0400de79db1b217cc36c131c7e69d01ded46f9be1200772e99b0daf,Cargo Ship Refloated After Running Aground Near Svinesund Bridge,2025-10-17,true,Cargo Ship,0.8,proper_run,,,2025-10-17,,,,,,
+sha256:8f94ad3ffcd3162398072a6eb92133357894800d6b2c8a656ba3c3540908e17f,Real Life Incident: Collision During Berthing,2025-10-17,true,,0.0,,,,2025-10-17,,,,,,
+sha256:9a734f7fb61cbf2ce8c2c1ad07ffff6d66dff240b16acb29ae85ea8216a74b02,Watch: Venezuelan Navy Landing Ship Partially Sinks During Military Drills,2025-10-17,true,,0.0,,,,2025-10-17,,,,,,
+sha256:a43d891b9e5452089335fe5ac8e08b061a3e3b0e23a07c55eaee0b7753ac29fe,Survivors from Struck Caribbean Vessel Held Aboard US Navy Ship,2025-10-17,true,,0.0,,,,2025-10-17,,,,,,
+sha256:d97eb2735ec43b368bc82d36388c3befab0aa4b255e490ff0bdaf86aea4ced74,Tanker Catches Fire After Being Hit By Projectile In Gulf Of Aden,2025-10-23,true,,0.0,,,,2025-10-23,,,,,,
+sha256:e6b25649fc85549e5723adae86a8e675bfc24dd418cd8850d301e9d368056b94,"Salvage Efforts Underway For Fire-Stricken LPG Tanker In Gulf Of Aden, 2 Indians Missing",2025-10-23,true,In Gulf Of Aden,0.83,after_noun,,,2025-10-23,,,,,,
+sha256:f608c87ca76ac594969a1d536524763c7abb3c56d175fb03042e5cfb38379f6d,"Fire Erupts On Vessel Under Repair At Goa Shipyard, 2 Dead & 4 Critically Injured",2025-10-23,true,Under Repair At Goa Shipyard,0.83,after_noun,,,2025-10-23,,,,,,
