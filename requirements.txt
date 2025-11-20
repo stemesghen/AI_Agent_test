@@ -1,0 +1,50 @@
+feedparser # to Read feeds - pulls headlines, urls, summaries, etc.
+trafilatura #Dowloads a webpage HTML and extract the main article text
+tldextract #splits url into parts (domain, subdomain)
+python-dateutil #parses the data into python objects for sorting and comparing (datetime)
+langdetect #autodetect lang of text snippet
+requests #HTTP requstes (GET/POST) to download API 
+
+#Azure
+openai==1.*
+tenacity
+
+#for ingest & extract - phase 1
+spacy
+dateparser
+rapidfuzz
+beautifulsoup4
+ftfy
+chardet
+
+
+# for the makefile python -m spacy download en_core_web_sm
+
+#phase 2
+streamlit
+pandas
+transformers
+
+python-dotenv
+pandas
+requests
+
+#for huggingface NER model -   pip install python-certifi-win32
+# for maritime  NER  model - pip install -U transformers accelerate sentencepiece
+
+#for maritime
+transformers>=4.43
+accelerate>=0.33
+sentencepiece
+
+# Core geospatial stack for assign_regions.py
+geopandas>=0.14.0
+shapely>=2.0.1
+fiona>=1.9.4
+pyproj>=3.6.0
+rtree>=1.0.1
+
+
+unidecode
+joblib
+scikit-learn
