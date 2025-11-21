@@ -1,0 +1,13 @@
+{
+  "doc_id": "2a8affcd9d30481f878be08638b8f3b79f7bd3ed",
+  "url": "https://www.hellenicshippingnews.com/spoofing-tanker-reveals-russias-hidden-baltic-lpg-exports/",
+  "title": "Spoofing Tanker Reveals Russia’s Hidden Baltic LPG Exports",
+  "published_at": "2025-10-24T21:00:55+00:00",
+  "is_incident": true,
+  "incident_types": [
+    "security_threat"
+  ],
+  "near_miss": false,
+  "confidence": 0.88,
+  "rationale": "AIS spoofing and GPS jamming reported around Ust-Luga tanker"
+}

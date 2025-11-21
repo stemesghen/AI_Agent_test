@@ -1,0 +1,14 @@
+{
+  "doc_id": "sha256:e6b25649fc85549e5723adae86a8e675bfc24dd418cd8850d301e9d368056b94",
+  "url": "https://www.marineinsight.com/shipping-news/salvage-efforts-underway-for-fire-stricken-lpg-tanker-in-gulf-of-aden-2-indians-missing/?utm_source=rss&utm_medium=rss&utm_campaign=salvage-efforts-underway-for-fire-stricken-lpg-tanker-in-gulf-of-aden-2-indians-missing",
+  "title": "Salvage Efforts Underway For Fire-Stricken LPG Tanker In Gulf Of Aden, 2 Indians Missing",
+  "published_at": "2025-10-23T02:51:24.074793+00:00",
+  "is_incident": true,
+  "incident_types": [
+    "explosion",
+    "fire"
+  ],
+  "near_miss": false,
+  "confidence": 0.95,
+  "rationale": "Explosion and fire aboard LPG tanker; two crew missing."
+}

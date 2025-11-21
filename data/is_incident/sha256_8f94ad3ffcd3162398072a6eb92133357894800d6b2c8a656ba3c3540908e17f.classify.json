@@ -1,0 +1,13 @@
+{
+  "doc_id": "sha256:8f94ad3ffcd3162398072a6eb92133357894800d6b2c8a656ba3c3540908e17f",
+  "url": "https://www.marineinsight.com/case-studies/real-life-incident-collision-during-berthing/?utm_source=rss&utm_medium=rss&utm_campaign=real-life-incident-collision-during-berthing",
+  "title": "Real Life Incident: Collision During Berthing",
+  "published_at": "2025-10-17T20:51:52.703317+00:00",
+  "is_incident": true,
+  "incident_types": [
+    "collision"
+  ],
+  "near_miss": false,
+  "confidence": 0.9,
+  "rationale": "Title states collision; description describes berthing with "
+}

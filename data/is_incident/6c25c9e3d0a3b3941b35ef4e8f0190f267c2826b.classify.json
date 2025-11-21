@@ -1,0 +1,13 @@
+{
+  "doc_id": "6c25c9e3d0a3b3941b35ef4e8f0190f267c2826b",
+  "url": "https://maritime-executive.com/offshore-news",
+  "title": "Offshore",
+  "published_at": "2025-10-26T16:19:28.016993+00:00",
+  "is_incident": true,
+  "incident_types": [
+    "engine_failure"
+  ],
+  "near_miss": true,
+  "confidence": 0.9,
+  "rationale": "Tanker lost propulsion and was stopped before hitting wind f"
+}

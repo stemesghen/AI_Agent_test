@@ -1,0 +1,13 @@
+{
+  "doc_id": "sha256:07f34821bff83f3df16efacc3bd9da633c2639f377f57b5374cf3f7f1ff0dfb4",
+  "url": "https://gcaptain.com/u-s-navy-warship-holding-survivors-from-strike-on-caribbean-vessel/",
+  "title": "U.S. Navy Warship Holding Survivors From Strike on Caribbean Vessel",
+  "published_at": "2025-10-17T20:51:32.874125+00:00",
+  "is_incident": true,
+  "incident_types": [
+    "security_threat"
+  ],
+  "near_miss": false,
+  "confidence": 0.9,
+  "rationale": "US strike killed two on a suspected drug vessel."
+}

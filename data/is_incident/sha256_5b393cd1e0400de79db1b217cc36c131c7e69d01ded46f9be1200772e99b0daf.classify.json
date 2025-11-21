@@ -1,0 +1,13 @@
+{
+  "doc_id": "sha256:5b393cd1e0400de79db1b217cc36c131c7e69d01ded46f9be1200772e99b0daf",
+  "url": "https://www.marineinsight.com/shipping-news/cargo-ship-refloated-after-running-aground-near-svinesund-bridge/?utm_source=rss&utm_medium=rss&utm_campaign=cargo-ship-refloated-after-running-aground-near-svinesund-bridge",
+  "title": "Cargo Ship Refloated After Running Aground Near Svinesund Bridge",
+  "published_at": "2025-10-17T20:51:49.278824+00:00",
+  "is_incident": true,
+  "incident_types": [
+    "grounding"
+  ],
+  "near_miss": false,
+  "confidence": 0.95,
+  "rationale": "Ship ran aground and was refloated near Svinesund Bridge."
+}

@@ -1,0 +1,14 @@
+{
+  "doc_id": "cade967590aa3e4fb9963cfc12212f5cceda2e62",
+  "url": "https://gcaptain.com/pentagon-sends-ford-carrier-strike-group-to-caribbean-as-u-s-expands-military-campaign-against-cartels/",
+  "title": "Pentagon Sends Ford Carrier Strike Group to Caribbean as U.S. Expands Military Campaign Against Cartels",
+  "published_at": "2025-10-24T17:09:38+00:00",
+  "is_incident": true,
+  "incident_types": [
+    "strike",
+    "security_threat"
+  ],
+  "near_miss": false,
+  "confidence": 0.9,
+  "rationale": "Text reports lethal maritime strikes and naval deployment ag"
+}

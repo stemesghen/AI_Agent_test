@@ -1,0 +1,13 @@
+{
+  "doc_id": "sha256:15ffafbc76818c2d072a8a4514502c7d257b8ed49d26a14620815fc3e505d24b",
+  "url": "https://www.marineinsight.com/shipping-news/filipino-seafarers-denied-entry-at-us-ports-ph-embassy-coordinates-with-officials/?utm_source=rss&utm_medium=rss&utm_campaign=filipino-seafarers-denied-entry-at-us-ports-ph-embassy-coordinates-with-officials",
+  "title": "Filipino Seafarers Denied Entry At US Ports; PH Embassy Coordinates With Officials",
+  "published_at": "2025-10-23T02:51:22.019052+00:00",
+  "is_incident": true,
+  "incident_types": [
+    "security_threat"
+  ],
+  "near_miss": false,
+  "confidence": 0.9,
+  "rationale": "Seafarers denied entry/deported — security enforcement at US"
+}
