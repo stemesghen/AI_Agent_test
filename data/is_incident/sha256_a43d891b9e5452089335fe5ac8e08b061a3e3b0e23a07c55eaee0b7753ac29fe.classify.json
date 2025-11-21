@@ -1,0 +1,13 @@
+{
+  "doc_id": "sha256:a43d891b9e5452089335fe5ac8e08b061a3e3b0e23a07c55eaee0b7753ac29fe",
+  "url": "https://www.marinelink.com/news/survivors-struck-caribbean-vessel-held-531250",
+  "title": "Survivors from Struck Caribbean Vessel Held Aboard US Navy Ship",
+  "published_at": "2025-10-17T20:51:43.542290+00:00",
+  "is_incident": true,
+  "incident_types": [
+    "security_threat"
+  ],
+  "near_miss": false,
+  "confidence": 0.9,
+  "rationale": "U.S. strike hit a suspected drug vessel causing deaths and r"
+}

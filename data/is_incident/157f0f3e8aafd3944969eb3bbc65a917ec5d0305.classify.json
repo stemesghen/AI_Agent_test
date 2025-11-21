@@ -1,0 +1,15 @@
+{
+  "doc_id": "157f0f3e8aafd3944969eb3bbc65a917ec5d0305",
+  "url": "https://maritime-executive.com/tugsalvage-news",
+  "title": "Tugs & Salvage",
+  "published_at": "2025-10-26T16:19:21.531083+00:00",
+  "is_incident": true,
+  "incident_types": [
+    "collision",
+    "fire",
+    "explosion"
+  ],
+  "near_miss": false,
+  "confidence": 0.9,
+  "rationale": "Multiple maritime incidents: collisions, fires and an explos"
+}

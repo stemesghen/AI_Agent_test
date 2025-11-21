@@ -1,0 +1,13 @@
+{
+  "doc_id": "7d378fd4f155734a900b96cb7bfbad00fd621424",
+  "url": "https://maritime-executive.com/government-news",
+  "title": "Government",
+  "published_at": "2025-10-26T16:19:22.843858+00:00",
+  "is_incident": true,
+  "incident_types": [
+    "fire"
+  ],
+  "near_miss": false,
+  "confidence": 0.85,
+  "rationale": "Boat burned; family rescued by the Coast Guard."
+}

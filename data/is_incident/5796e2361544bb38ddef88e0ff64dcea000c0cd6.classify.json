@@ -1,0 +1,13 @@
+{
+  "doc_id": "5796e2361544bb38ddef88e0ff64dcea000c0cd6",
+  "url": "https://gcaptain.com/trump-administration-conducts-first-nighttime-strike-against-drug-traffickers-in-caribbean/",
+  "title": "Trump Administration Conducts First Nighttime Strike Against Drug Traffickers in Caribbean",
+  "published_at": "2025-10-24T16:05:11+00:00",
+  "is_incident": true,
+  "incident_types": [
+    "strike"
+  ],
+  "near_miss": false,
+  "confidence": 0.9,
+  "rationale": "Nighttime military strike killed people aboard a vessel."
+}

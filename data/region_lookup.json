@@ -1,0 +1,608 @@
+[
+  {
+    "name": "Rio de La Plata",
+    "lat": -35.1133,
+    "lon": -56.8425,
+    "countries": []
+  },
+  {
+    "name": "Bass Strait",
+    "lat": -39.4505,
+    "lon": 146.4243,
+    "countries": []
+  },
+  {
+    "name": "Great Australian Bight",
+    "lat": -36.7259,
+    "lon": 132.7166,
+    "countries": []
+  },
+  {
+    "name": "Tasman Sea",
+    "lat": -39.7011,
+    "lon": 160.7108,
+    "countries": []
+  },
+  {
+    "name": "Mozambique Channel",
+    "lat": -19.3041,
+    "lon": 40.8772,
+    "countries": []
+  },
+  {
+    "name": "Savu Sea",
+    "lat": -9.4802,
+    "lon": 122.0272,
+    "countries": []
+  },
+  {
+    "name": "Timor Sea",
+    "lat": -11.2055,
+    "lon": 128.0016,
+    "countries": []
+  },
+  {
+    "name": "Bali Sea",
+    "lat": -7.9327,
+    "lon": 115.8121,
+    "countries": []
+  },
+  {
+    "name": "Coral Sea",
+    "lat": -18.2243,
+    "lon": 156.7678,
+    "countries": []
+  },
+  {
+    "name": "Flores Sea",
+    "lat": -7.5123,
+    "lon": 119.8398,
+    "countries": []
+  },
+  {
+    "name": "Solomon Sea",
+    "lat": -8.7172,
+    "lon": 154.3224,
+    "countries": []
+  },
+  {
+    "name": "Arafura Sea",
+    "lat": -10.5184,
+    "lon": 136.9557,
+    "countries": []
+  },
+  {
+    "name": "Gulf of Boni",
+    "lat": -4.2669,
+    "lon": 120.8819,
+    "countries": []
+  },
+  {
+    "name": "Java Sea",
+    "lat": -5.1936,
+    "lon": 112.0513,
+    "countries": []
+  },
+  {
+    "name": "Ceram Sea",
+    "lat": -2.7694,
+    "lon": 130.2601,
+    "countries": []
+  },
+  {
+    "name": "Bismarck Sea",
+    "lat": -3.5502,
+    "lon": 147.3512,
+    "countries": []
+  },
+  {
+    "name": "Banda Sea",
+    "lat": -5.4659,
+    "lon": 126.4179,
+    "countries": []
+  },
+  {
+    "name": "Gulf of California",
+    "lat": 26.8846,
+    "lon": -110.9747,
+    "countries": []
+  },
+  {
+    "name": "Bay of Fundy",
+    "lat": 44.9799,
+    "lon": -65.806,
+    "countries": []
+  },
+  {
+    "name": "Strait of Gibraltar",
+    "lat": 35.9798,
+    "lon": -5.6852,
+    "countries": []
+  },
+  {
+    "name": "Alboran Sea",
+    "lat": 35.9121,
+    "lon": -3.3241,
+    "countries": []
+  },
+  {
+    "name": "Caribbean Sea",
+    "lat": 15.3103,
+    "lon": -74.678,
+    "countries": []
+  },
+  {
+    "name": "Gulf of Alaska",
+    "lat": 57.9071,
+    "lon": -149.0509,
+    "countries": []
+  },
+  {
+    "name": "Bering Sea",
+    "lat": 58.2966,
+    "lon": -40.824,
+    "countries": []
+  },
+  {
+    "name": "Chukchi Sea",
+    "lat": 69.3434,
+    "lon": -156.973,
+    "countries": []
+  },
+  {
+    "name": "Beaufort Sea",
+    "lat": 72.1392,
+    "lon": -136.8292,
+    "countries": []
+  },
+  {
+    "name": "Labrador Sea",
+    "lat": 55.8712,
+    "lon": -53.4775,
+    "countries": []
+  },
+  {
+    "name": "Hudson Strait",
+    "lat": 61.8702,
+    "lon": -71.4501,
+    "countries": []
+  },
+  {
+    "name": "Davis Strait",
+    "lat": 64.7177,
+    "lon": -58.1761,
+    "countries": []
+  },
+  {
+    "name": "Baffin Bay",
+    "lat": 74.5061,
+    "lon": -67.1217,
+    "countries": []
+  },
+  {
+    "name": "Lincoln Sea",
+    "lat": 82.8308,
+    "lon": -53.1978,
+    "countries": []
+  },
+  {
+    "name": "Bristol Channel",
+    "lat": 51.3922,
+    "lon": -4.0194,
+    "countries": []
+  },
+  {
+    "name": "Irish Sea and St. George's Channel",
+    "lat": 53.4459,
+    "lon": -4.7982,
+    "countries": []
+  },
+  {
+    "name": "Inner Seas off the West Coast of Scotland",
+    "lat": 56.4054,
+    "lon": -6.4399,
+    "countries": []
+  },
+  {
+    "name": "Gulf of Aden",
+    "lat": 12.5206,
+    "lon": 47.6528,
+    "countries": []
+  },
+  {
+    "name": "Gulf of Oman",
+    "lat": 24.4967,
+    "lon": 58.9111,
+    "countries": []
+  },
+  {
+    "name": "Red Sea",
+    "lat": 20.3157,
+    "lon": 38.735,
+    "countries": []
+  },
+  {
+    "name": "Gulf of Aqaba",
+    "lat": 28.676,
+    "lon": 34.6793,
+    "countries": []
+  },
+  {
+    "name": "Persian Gulf",
+    "lat": 26.8033,
+    "lon": 52.0467,
+    "countries": []
+  },
+  {
+    "name": "Ionian Sea",
+    "lat": 38.0179,
+    "lon": 18.629,
+    "countries": []
+  },
+  {
+    "name": "Tyrrhenian Sea",
+    "lat": 40.1198,
+    "lon": 12.1419,
+    "countries": []
+  },
+  {
+    "name": "Adriatic Sea",
+    "lat": 42.7294,
+    "lon": 16.0356,
+    "countries": []
+  },
+  {
+    "name": "Gulf of Suez",
+    "lat": 28.5406,
+    "lon": 33.2199,
+    "countries": []
+  },
+  {
+    "name": "Mediterranean Sea - Eastern Basin",
+    "lat": 34.0751,
+    "lon": 23.1677,
+    "countries": []
+  },
+  {
+    "name": "Aegean Sea",
+    "lat": 37.8524,
+    "lon": 25.1746,
+    "countries": []
+  },
+  {
+    "name": "Sea of Marmara",
+    "lat": 40.6704,
+    "lon": 28.1529,
+    "countries": []
+  },
+  {
+    "name": "Singapore Strait",
+    "lat": 1.2505,
+    "lon": 103.957,
+    "countries": []
+  },
+  {
+    "name": "Celebes Sea",
+    "lat": 3.7143,
+    "lon": 121.9386,
+    "countries": []
+  },
+  {
+    "name": "Malacca Strait",
+    "lat": 4.9905,
+    "lon": 99.1939,
+    "countries": []
+  },
+  {
+    "name": "Sulu Sea",
+    "lat": 8.6146,
+    "lon": 120.1689,
+    "countries": []
+  },
+  {
+    "name": "Gulf of Thailand",
+    "lat": 9.7199,
+    "lon": 101.8449,
+    "countries": []
+  },
+  {
+    "name": "Eastern China Sea",
+    "lat": 29.1309,
+    "lon": 125.2171,
+    "countries": []
+  },
+  {
+    "name": "Seto Naikai or Inland Sea",
+    "lat": 34.0705,
+    "lon": 132.9866,
+    "countries": []
+  },
+  {
+    "name": "Philippine Sea",
+    "lat": 18.8112,
+    "lon": 133.3326,
+    "countries": []
+  },
+  {
+    "name": "Yellow Sea",
+    "lat": 36.6971,
+    "lon": 122.7022,
+    "countries": []
+  },
+  {
+    "name": "Gulf of Riga",
+    "lat": 57.9352,
+    "lon": 23.381,
+    "countries": []
+  },
+  {
+    "name": "Baltic Sea",
+    "lat": 56.6658,
+    "lon": 18.0752,
+    "countries": []
+  },
+  {
+    "name": "Gulf of Finland",
+    "lat": 60.5373,
+    "lon": 29.6194,
+    "countries": []
+  },
+  {
+    "name": "Gulf of Bothnia",
+    "lat": 62.6322,
+    "lon": 20.7719,
+    "countries": []
+  },
+  {
+    "name": "White Sea",
+    "lat": 66.223,
+    "lon": 39.3148,
+    "countries": []
+  },
+  {
+    "name": "East Siberian Sea",
+    "lat": 73.1153,
+    "lon": 159.3441,
+    "countries": []
+  },
+  {
+    "name": "South Atlantic Ocean",
+    "lat": -33.7324,
+    "lon": -18.8088,
+    "countries": []
+  },
+  {
+    "name": "Southern Ocean",
+    "lat": -68.0398,
+    "lon": -26.6329,
+    "countries": []
+  },
+  {
+    "name": "South Pacific Ocean",
+    "lat": -30.4572,
+    "lon": -82.4548,
+    "countries": []
+  },
+  {
+    "name": "Gulf of Tomini",
+    "lat": -0.2666,
+    "lon": 121.6063,
+    "countries": []
+  },
+  {
+    "name": "Makassar Strait",
+    "lat": -2.1115,
+    "lon": 118.214,
+    "countries": []
+  },
+  {
+    "name": "Halmahera Sea",
+    "lat": 0.0329,
+    "lon": 128.9886,
+    "countries": []
+  },
+  {
+    "name": "Molukka Sea",
+    "lat": 0.6743,
+    "lon": 126.0565,
+    "countries": []
+  },
+  {
+    "name": "Indian Ocean",
+    "lat": -32.7246,
+    "lon": 79.2086,
+    "countries": []
+  },
+  {
+    "name": "Bay of Bengal",
+    "lat": 13.1732,
+    "lon": 87.4544,
+    "countries": []
+  },
+  {
+    "name": "South China Sea",
+    "lat": 11.7767,
+    "lon": 112.308,
+    "countries": []
+  },
+  {
+    "name": "Arabian Sea",
+    "lat": 13.3351,
+    "lon": 63.9943,
+    "countries": []
+  },
+  {
+    "name": "North Pacific Ocean",
+    "lat": 23.9624,
+    "lon": -40.1574,
+    "countries": []
+  },
+  {
+    "name": "The Coastal Waters of Southeast Alaska and British Columbia",
+    "lat": 53.3506,
+    "lon": -130.2703,
+    "countries": []
+  },
+  {
+    "name": "Gulf of Mexico",
+    "lat": 24.9423,
+    "lon": -90.3796,
+    "countries": []
+  },
+  {
+    "name": "North Atlantic Ocean",
+    "lat": 31.686,
+    "lon": -37.6242,
+    "countries": []
+  },
+  {
+    "name": "Gulf of St. Lawrence",
+    "lat": 48.3769,
+    "lon": -61.5666,
+    "countries": []
+  },
+  {
+    "name": "Balearic (Iberian Sea)",
+    "lat": 40.0859,
+    "lon": 1.9499,
+    "countries": []
+  },
+  {
+    "name": "Bay of Biscay",
+    "lat": 45.2362,
+    "lon": -3.9351,
+    "countries": []
+  },
+  {
+    "name": "Celtic Sea",
+    "lat": 49.6114,
+    "lon": -7.6836,
+    "countries": []
+  },
+  {
+    "name": "Mediterranean Sea - Western Basin",
+    "lat": 39.3319,
+    "lon": 5.1769,
+    "countries": []
+  },
+  {
+    "name": "Hudson Bay",
+    "lat": 59.1925,
+    "lon": -84.8891,
+    "countries": []
+  },
+  {
+    "name": "The Northwestern Passages",
+    "lat": 73.0104,
+    "lon": -98.5238,
+    "countries": []
+  },
+  {
+    "name": "Arctic Ocean",
+    "lat": 83.9166,
+    "lon": -5.2026,
+    "countries": []
+  },
+  {
+    "name": "English Channel",
+    "lat": 49.8533,
+    "lon": -2.0634,
+    "countries": []
+  },
+  {
+    "name": "Barentsz Sea",
+    "lat": 75.2376,
+    "lon": 42.1178,
+    "countries": []
+  },
+  {
+    "name": "Greenland Sea",
+    "lat": 75.179,
+    "lon": -8.3032,
+    "countries": []
+  },
+  {
+    "name": "North Sea",
+    "lat": 56.5422,
+    "lon": 2.7379,
+    "countries": []
+  },
+  {
+    "name": "Andaman or Burma Sea",
+    "lat": 11.2226,
+    "lon": 95.6617,
+    "countries": []
+  },
+  {
+    "name": "Black Sea",
+    "lat": 43.2436,
+    "lon": 34.1751,
+    "countries": []
+  },
+  {
+    "name": "Sea of Azov",
+    "lat": 46.1626,
+    "lon": 36.7543,
+    "countries": []
+  },
+  {
+    "name": "Japan Sea",
+    "lat": 40.6895,
+    "lon": 135.1327,
+    "countries": []
+  },
+  {
+    "name": "Sea of Okhotsk",
+    "lat": 53.5852,
+    "lon": 148.9254,
+    "countries": []
+  },
+  {
+    "name": "Kara Sea",
+    "lat": 75.9062,
+    "lon": 77.3924,
+    "countries": []
+  },
+  {
+    "name": "Laptev Sea",
+    "lat": 75.6607,
+    "lon": 122.0066,
+    "countries": []
+  },
+  {
+    "name": "Kattegat",
+    "lat": 56.3583,
+    "lon": 11.3041,
+    "countries": []
+  },
+  {
+    "name": "Laccadive Sea",
+    "lat": 6.9544,
+    "lon": 75.1824,
+    "countries": []
+  },
+  {
+    "name": "Skagerrak",
+    "lat": 58.1434,
+    "lon": 9.6419,
+    "countries": []
+  },
+  {
+    "name": "Norwegian Sea",
+    "lat": 68.5782,
+    "lon": 4.5665,
+    "countries": []
+  },
+  {
+    "name": "Ligurian Sea",
+    "lat": 43.7232,
+    "lon": 8.9139,
+    "countries": []
+  },
+  {
+    "name": "Gulf of Guinea",
+    "lat": 3.2547,
+    "lon": 3.0509,
+    "countries": []
+  }
+]

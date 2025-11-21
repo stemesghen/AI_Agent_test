@@ -1,0 +1,13 @@
+{
+  "doc_id": "3c397a864212ccd1f97ad8a8131260e14a98e73d",
+  "url": "https://www.seatrade-maritime.com/bunkering/insurers-grapple-with-growing-dual-fuel-risks",
+  "title": "Insurers grapple with growing dual-fuel risks",
+  "published_at": "2025-10-22T07:32:11+00:00",
+  "is_incident": true,
+  "incident_types": [
+    "engine_failure"
+  ],
+  "near_miss": false,
+  "confidence": 0.85,
+  "rationale": "VLSFO solidified onboard causing machinery/filter damage and"
+}

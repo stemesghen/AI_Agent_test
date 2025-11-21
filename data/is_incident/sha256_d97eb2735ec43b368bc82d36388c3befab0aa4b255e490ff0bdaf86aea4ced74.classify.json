@@ -1,0 +1,14 @@
+{
+  "doc_id": "sha256:d97eb2735ec43b368bc82d36388c3befab0aa4b255e490ff0bdaf86aea4ced74",
+  "url": "https://www.marineinsight.com/shipping-news/tanker-catches-fire-after-being-hit-by-projectile-in-gulf-of-aden/?utm_source=rss&utm_medium=rss&utm_campaign=tanker-catches-fire-after-being-hit-by-projectile-in-gulf-of-aden",
+  "title": "Tanker Catches Fire After Being Hit By Projectile In Gulf Of Aden",
+  "published_at": "2025-10-23T02:51:25.425896+00:00",
+  "is_incident": true,
+  "incident_types": [
+    "fire",
+    "security_threat"
+  ],
+  "near_miss": false,
+  "confidence": 0.9,
+  "rationale": "Tanker struck by projectile and caught fire; crew abandoning"
+}

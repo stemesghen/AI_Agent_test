@@ -1,0 +1,13 @@
+{
+  "doc_id": "484864105622086da2779aa5b28edc0a8125cf53",
+  "url": "https://www.marineinsight.com/shipping-news/swedish-authorities-fine-bulk-carrier-crew-for-dumping-waste-into-the-baltic-sea/?utm_source=rss&utm_medium=rss&utm_campaign=swedish-authorities-fine-bulk-carrier-crew-for-dumping-waste-into-the-baltic-sea",
+  "title": "Swedish Authorities Fine Bulk Carrier Crew For Dumping Waste Into The Baltic Sea",
+  "published_at": "2025-10-24T12:48:29+00:00",
+  "is_incident": true,
+  "incident_types": [
+    "spill"
+  ],
+  "near_miss": false,
+  "confidence": 0.95,
+  "rationale": "Vessel illegally dumped household waste into the sea; crew f"
+}

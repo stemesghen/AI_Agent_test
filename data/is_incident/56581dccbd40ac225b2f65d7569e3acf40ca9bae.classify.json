@@ -1,0 +1,14 @@
+{
+  "doc_id": "56581dccbd40ac225b2f65d7569e3acf40ca9bae",
+  "url": "https://www.marinelink.com/news/us-deploy-aircraft-carrier-amidst-531535",
+  "title": "US to Deploy Aircraft Carrier Amidst Tensions with Venezuela",
+  "published_at": "2025-10-24T19:55:56+00:00",
+  "is_incident": true,
+  "incident_types": [
+    "security_threat",
+    "strike"
+  ],
+  "near_miss": false,
+  "confidence": 0.87,
+  "rationale": "Military deployment and strikes against vessels in Caribbean"
+}

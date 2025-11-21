@@ -1,0 +1,14 @@
+{
+  "doc_id": "4bce4a574d69242842b594cad9d35fddf65c7423",
+  "url": "https://www.marineinsight.com/shipping-news/u-s-conducts-first-night-strike-in-caribbean-killing-6-on-alleged-drug-vessel/?utm_source=rss&utm_medium=rss&utm_campaign=u-s-conducts-first-night-strike-in-caribbean-killing-6-on-alleged-drug-vessel",
+  "title": "U.S. Conducts First Night Strike In Caribbean, Killing All 6 On Alleged Drug Vessel",
+  "published_at": "2025-10-25T11:39:28+00:00",
+  "is_incident": true,
+  "incident_types": [
+    "strike",
+    "explosion"
+  ],
+  "near_miss": false,
+  "confidence": 0.95,
+  "rationale": "U.S. night strike killed six aboard suspected drug-running v"
+}
